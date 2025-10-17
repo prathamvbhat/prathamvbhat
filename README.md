@@ -9,7 +9,7 @@
          <img src="./assets/headers/about_me_section_dark.svg" alt="About Me heading">
       </picture>
    </center>
-   <p>Hello World!!!. It's Pratham here.</p>
+   <p>Hello World!!!. I'm a Software Engineer at ASM Technologies Pvt. Ltd, mostly working with Python. On weekends, I trade bugs for headshots in Valorant and Wuthering Waves. Big anime fan — if it’s got good animation and a crazy plot, I’m in.</p>
    <a href="https://www.linkedin.com/in/prathamvbhat/">
    <img src="https://api.iconify.design/skill-icons:linkedin.svg" alt="Pratham V Bhat's Linkedin" height="35" width="35" />
    </a>&nbsp;&nbsp;
